@@ -1,0 +1,43 @@
+{
+  "sala": "Sala A",
+  "nickname": "User123",
+  "numeroCarnet": "12345",
+  "telefono": "555-1234",
+  "email": "user123@example.com",
+  "fecha": "2024-05-13",
+  "horaInicio": "10:00 AM",
+  "horaFin": "12:00 PM",
+  "numPersonas": 4,
+  "comentario": "Necesitamos una mesa grande"
+}
+
+
+
+{
+  "sala": "Sala B",
+  "nickname": "Admin456",
+  "numeroCarnet": "54321",
+  "telefono": "555-5678",
+  "email": "admin456@example.com",
+  "fecha": "2024-05-15",
+  "horaInicio": "14:00 PM",
+  "horaFin": "16:00 PM",
+  "numPersonas": 8,
+  "comentario": "Reunión de planificación"
+}
+
+
+
+{
+  "sala": "Sala C",
+  "nickname": "Guest789",
+  "numeroCarnet": "98765",
+  "telefono": "555-9876",
+  "email": "guest789@example.com",
+  "fecha": "2024-05-16",
+  "horaInicio": "09:00 AM",
+  "horaFin": "11:00 AM",
+  "numPersonas": 2,
+  "comentario": "Confirmar disponibilidad de proyector"
+}
+

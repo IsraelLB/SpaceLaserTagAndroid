@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="es.uca.spacelasertag.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_reserva"
+        android:name="es.uca.spacelasertag.ui.reserva.ReservaFragment"
+        android:label="@string/menu_reserva"
+        tools:layout="@layout/fragment_reserva" />
+
+    <fragment
+        android:id="@+id/nav_salas"
+        android:name="es.uca.spacelasertag.ui.salas.SalashowFragment"
+        android:label="@string/menu_salas"
+        tools:layout="@layout/fragment_salas" />
+    <fragment
+        android:id="@+id/nav_sobre_nostros"
+        android:name="es.uca.spacelasertag.ui.sobre_nosotros.SobreNosotroshowFragment"
+        android:label="@string/menu_sobre_nosotros"
+        tools:layout="@layout/fragment_sobre_nosotros" />
+
+    <fragment
+        android:id="@+id/formulario"
+        android:name="es.uca.spacelasertag.ui.formulario.FormularioFragment"
+        android:label="@string/formulario"
+        tools:layout="@layout/fragment_formulario" />
+
+
+</navigation>

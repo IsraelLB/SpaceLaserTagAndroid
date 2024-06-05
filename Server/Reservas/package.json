@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.1",
+    "mongodb": "^4.14.0",
+    "morgan": "^1.10.0"
+  },
+  "autores":{
+    "autor1":" Israel Luna Barrero",
+    "autor2":"Daniel Rodríguez Raposo"
+  },
+  "Descripción": "API REST para la gestión de reservas de un Laser tag, conectada a una base de datos MongoDB. Se pueden realizar las operaciones Get, Post, Delete y Put.",
+  "Palabras clave": "API, REST, MongoDB, Laser tag, Reservas, Get, Post, Delete, Put."
+}

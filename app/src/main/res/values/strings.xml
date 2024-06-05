@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">spacelaserbattle</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Space LaserBattle</string>
+    <string name="nav_header_subtitle">SpaceLaserBattle@gmail.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Inicio</string>
+    <string name="menu_reserva">Reserva</string>
+    <string name="menu_salas">Salas</string>
+    <string name="menu_sobre_nosotros">Sobre Nostros</string>
+    <string name="nombre_de_establecimiento">Space Laser Battle</string>
+    <string name="nombre_de_desarrollador">Desarrollado por:</string>
+    <string name="desarrollador1">Israel Luna Barrero</string>
+    <string name="desarrollador2">Daniel Rodríguez Raposo</string>
+    <string name="copysight">© 2024 Israel Luna Barrero and Daniel Rodríguez Raposo</string>
+    <string name="sala_abierta">Sala abierta</string>
+    <string name="descripcionabierta">Esta sala cuenta con un terreno abierto de con algunos obstaculos para cubrirse, es una sala perfecta si estas buscando el descontrol y pasartelo en grande.\nEs perfecta para un Duelo por equipos, y para afinar la punteria</string>
+    <string name="sala_laberinto">Sala laberinto</string>
+    <string name="descripcionlaberinto">Esta sala es una mezcla de la sala abierta y la sala laberinto, tiene espacios abiertos donde desatar la diversión y espacios mas cerrados y tácticos ¡perfectos para crear estrategias!\nAdemás esta sala cuenta con la novedad de una segunda planta en donde podras esconderte o visualizar toda la primera planta obteniendo información valiosa para tu equipo.\n¡Es perfecta para cualquier modo de juego!</string>
+    <string name="sala_dos_plantas">Sala Dos Plantas</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="m_todos_de_transporte">Métodos de Transporte:</string>
+    <string name="horarios_de_autobus">Haz clic aquí para ver los horarios de autobus</string>
+    <string name="horarios_tren">Haz clic aquí para ver los horarios de tren.\nLa estación destino es \"Las Aletas\".</string>
+    <string name="nuestra_ubicacion">Nuestra Ubicación:</string>
+    <string name="info_ubicacion">Somos una compañía centrada en asegurar tu diversión. En Space Laser Battles, nos apasiona ofrecerte experiencias inolvidables a través de nuestro innovador enfoque en el Laser Tag. Creemos que la diversión y la emoción son fundamentales para crear recuerdos duraderos.\nNos encontramos en Av. Universidad de Cádiz, 10, 11519 Puerto Real, Cádiz</string>
+    <string name="get">get</string>
+    <string name="id">ID:</string>
+    <string name="sala">Sala:</string>
+    <string name="nickname">Nickname:</string>
+    <string name="numero_de_carnet">Numero de Carnet:</string>
+    <string name="tel_fono">Teléfono:</string>
+    <string name="email">Email:</string>
+    <string name="fecha">Fecha:</string>
+    <string name="hora_inicio">Hora Inicio:</string>
+    <string name="hora_fin">Hora Fin:</string>
+    <string name="numero_de_personas">Numero de Personas:</string>
+    <string name="comentario">Comentario:</string>
+    <string name="ver_reservas">Ver Reservas</string>
+    <string name="Añadir_reserva">Añadir Reserva</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="formulario">Formulario</string>
+    <string name="tituloPOST">Titulo Post</string>
+    <string name="nombre">nombre</string>
+    <string name="apellido">Apellido\n</string>
+    <string name="edad">EDAD\n</string>
+    <string name="post">POST\n</string>
+    <string name="tituloGET">GETTT\n</string>
+    <string name="ide">ideasd\n</string>
+    <string name="titulo">Añadir Reserva</string>
+    <string name="titulo_formulario">Añadir Reserva</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+</resources>
